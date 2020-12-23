@@ -1,10 +1,10 @@
-# <p align="center" > تنصيب سورس ديف بروكس
+# <p align="center" > تنصيب سورس فكتور
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 # <p align="center" > ⤈ ↫ كود التنصيب الاول مع المكاتب ↬ ⤈
-# <p align="center" > `git clone https://github.com/iq0abs/DevProx.git && cd DevProx  && chmod +x tg && chmod +x RUNABS.sh && chmod +x ABS && ./RUNABS.sh install`
+# <p align="center" > `git clone https://github.com/CARL01S/1.git && cd DevProx  && chmod +x tg && chmod +x RUNABS.sh && chmod +x ABS && ./RUNABS.sh install`
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 # <p align="center" > ⤈ ↫ كود التنصيب السريع من دون مكاتب ↬ ⤈
-# <p align="center" > `git clone https://github.com/iq0abs/DevProx.git && cd DevProx  && chmod +x tg && chmod +x RUNABS.sh && chmod +x ABS && ./RUNABS.sh`
+# <p align="center" > `git clone https://github.com/CARL01S/1.git  && chmod +x tg && chmod +x RUNABS.sh && chmod +x ABS && ./RUNABS.sh`
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 # <p align="center" > قم بنسخ احدى اكواد التنصيب
 # <p align="center" > والصقه في الترمنال واضغط انتر
